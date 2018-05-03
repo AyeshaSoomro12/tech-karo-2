@@ -1,0 +1,43 @@
+body {
+  
+    margin: 0px ;
+}
+h1{
+    font-weight: 200 ;
+}
+h1,p{
+    margin: 15px  ;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+div{
+    display: inline-block ;
+    text-align: center ;
+    height: 350px ;
+    margin-left: 35px ;
+}
+
+figure{
+       margin: 0px ;
+    
+}  
+img {
+    height: 220px ;
+}
+
+figcaption{
+           text-align: center ; 
+           color:#0c65c0 ;
+           padding: 5PX ;
+           font-family:'Roboto Condensed', sans-serif;
+           
+}
+button{
+       text-align: center ;
+       padding: 8px 55px ;
+       background: linear-gradient(to bottom, #f7dda0,#f2c654) ;
+       border: 1px solid #a58c4d ;
+       border-radius: 2px;
+       font-weight: bold;
+       
+       
+}
